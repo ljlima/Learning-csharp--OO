@@ -1,0 +1,15 @@
+C:\Users\limaj\Desktop\Github\Curso-.NET\projeto_piramide_numerica\obj\Debug\net7.0\projeto_piramide_numerica.csproj.AssemblyReference.cache
+C:\Users\limaj\Desktop\Github\Curso-.NET\projeto_piramide_numerica\obj\Debug\net7.0\projeto_piramide_numerica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\limaj\Desktop\Github\Curso-.NET\projeto_piramide_numerica\obj\Debug\net7.0\projeto_piramide_numerica.AssemblyInfoInputs.cache
+C:\Users\limaj\Desktop\Github\Curso-.NET\projeto_piramide_numerica\obj\Debug\net7.0\projeto_piramide_numerica.AssemblyInfo.cs
+C:\Users\limaj\Desktop\Github\Curso-.NET\projeto_piramide_numerica\obj\Debug\net7.0\projeto_piramide_numerica.csproj.CoreCompileInputs.cache
+C:\Users\limaj\Desktop\Github\Curso-.NET\projeto_piramide_numerica\bin\Debug\net7.0\projeto_piramide_numerica.exe
+C:\Users\limaj\Desktop\Github\Curso-.NET\projeto_piramide_numerica\bin\Debug\net7.0\projeto_piramide_numerica.deps.json
+C:\Users\limaj\Desktop\Github\Curso-.NET\projeto_piramide_numerica\bin\Debug\net7.0\projeto_piramide_numerica.runtimeconfig.json
+C:\Users\limaj\Desktop\Github\Curso-.NET\projeto_piramide_numerica\bin\Debug\net7.0\projeto_piramide_numerica.dll
+C:\Users\limaj\Desktop\Github\Curso-.NET\projeto_piramide_numerica\bin\Debug\net7.0\projeto_piramide_numerica.pdb
+C:\Users\limaj\Desktop\Github\Curso-.NET\projeto_piramide_numerica\obj\Debug\net7.0\projeto_piramide_numerica.dll
+C:\Users\limaj\Desktop\Github\Curso-.NET\projeto_piramide_numerica\obj\Debug\net7.0\refint\projeto_piramide_numerica.dll
+C:\Users\limaj\Desktop\Github\Curso-.NET\projeto_piramide_numerica\obj\Debug\net7.0\projeto_piramide_numerica.pdb
+C:\Users\limaj\Desktop\Github\Curso-.NET\projeto_piramide_numerica\obj\Debug\net7.0\projeto_piramide_numerica.genruntimeconfig.cache
+C:\Users\limaj\Desktop\Github\Curso-.NET\projeto_piramide_numerica\obj\Debug\net7.0\ref\projeto_piramide_numerica.dll
