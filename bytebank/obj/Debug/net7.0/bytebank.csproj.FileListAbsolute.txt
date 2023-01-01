@@ -1,0 +1,15 @@
+C:\Users\limaj\Desktop\Github\Curso-.NET\bytebank\obj\Debug\net7.0\bytebank.csproj.AssemblyReference.cache
+C:\Users\limaj\Desktop\Github\Curso-.NET\bytebank\obj\Debug\net7.0\bytebank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\limaj\Desktop\Github\Curso-.NET\bytebank\obj\Debug\net7.0\bytebank.AssemblyInfoInputs.cache
+C:\Users\limaj\Desktop\Github\Curso-.NET\bytebank\obj\Debug\net7.0\bytebank.AssemblyInfo.cs
+C:\Users\limaj\Desktop\Github\Curso-.NET\bytebank\obj\Debug\net7.0\bytebank.csproj.CoreCompileInputs.cache
+C:\Users\limaj\Desktop\Github\Curso-.NET\bytebank\bin\Debug\net7.0\bytebank.exe
+C:\Users\limaj\Desktop\Github\Curso-.NET\bytebank\bin\Debug\net7.0\bytebank.deps.json
+C:\Users\limaj\Desktop\Github\Curso-.NET\bytebank\bin\Debug\net7.0\bytebank.runtimeconfig.json
+C:\Users\limaj\Desktop\Github\Curso-.NET\bytebank\bin\Debug\net7.0\bytebank.dll
+C:\Users\limaj\Desktop\Github\Curso-.NET\bytebank\bin\Debug\net7.0\bytebank.pdb
+C:\Users\limaj\Desktop\Github\Curso-.NET\bytebank\obj\Debug\net7.0\bytebank.dll
+C:\Users\limaj\Desktop\Github\Curso-.NET\bytebank\obj\Debug\net7.0\refint\bytebank.dll
+C:\Users\limaj\Desktop\Github\Curso-.NET\bytebank\obj\Debug\net7.0\bytebank.pdb
+C:\Users\limaj\Desktop\Github\Curso-.NET\bytebank\obj\Debug\net7.0\bytebank.genruntimeconfig.cache
+C:\Users\limaj\Desktop\Github\Curso-.NET\bytebank\obj\Debug\net7.0\ref\bytebank.dll
