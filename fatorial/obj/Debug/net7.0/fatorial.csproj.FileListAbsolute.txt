@@ -1,0 +1,15 @@
+C:\Users\limaj\Desktop\Github\Curso-.NET\fatorial\obj\Debug\net7.0\fatorial.csproj.AssemblyReference.cache
+C:\Users\limaj\Desktop\Github\Curso-.NET\fatorial\obj\Debug\net7.0\fatorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\limaj\Desktop\Github\Curso-.NET\fatorial\obj\Debug\net7.0\fatorial.AssemblyInfoInputs.cache
+C:\Users\limaj\Desktop\Github\Curso-.NET\fatorial\obj\Debug\net7.0\fatorial.AssemblyInfo.cs
+C:\Users\limaj\Desktop\Github\Curso-.NET\fatorial\obj\Debug\net7.0\fatorial.csproj.CoreCompileInputs.cache
+C:\Users\limaj\Desktop\Github\Curso-.NET\fatorial\bin\Debug\net7.0\fatorial.exe
+C:\Users\limaj\Desktop\Github\Curso-.NET\fatorial\bin\Debug\net7.0\fatorial.deps.json
+C:\Users\limaj\Desktop\Github\Curso-.NET\fatorial\bin\Debug\net7.0\fatorial.runtimeconfig.json
+C:\Users\limaj\Desktop\Github\Curso-.NET\fatorial\bin\Debug\net7.0\fatorial.dll
+C:\Users\limaj\Desktop\Github\Curso-.NET\fatorial\bin\Debug\net7.0\fatorial.pdb
+C:\Users\limaj\Desktop\Github\Curso-.NET\fatorial\obj\Debug\net7.0\fatorial.dll
+C:\Users\limaj\Desktop\Github\Curso-.NET\fatorial\obj\Debug\net7.0\refint\fatorial.dll
+C:\Users\limaj\Desktop\Github\Curso-.NET\fatorial\obj\Debug\net7.0\fatorial.pdb
+C:\Users\limaj\Desktop\Github\Curso-.NET\fatorial\obj\Debug\net7.0\fatorial.genruntimeconfig.cache
+C:\Users\limaj\Desktop\Github\Curso-.NET\fatorial\obj\Debug\net7.0\ref\fatorial.dll
