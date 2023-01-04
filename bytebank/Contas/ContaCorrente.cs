@@ -1,3 +1,4 @@
+using bytebank.Titular;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,7 +10,7 @@ namespace bytebank
     {
         public int numeroAgencia;
         public string conta;
-        public string titular;
+        public Cliente titular;
         public double saldo;
 
         public void Depositar(double valor)
