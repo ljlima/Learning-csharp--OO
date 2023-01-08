@@ -4,14 +4,25 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace bytebank
+namespace bytebank.Contas
 {
     public class ContaCorrente
     {
-        public int numeroAgencia;
-        public string conta;
-        public Cliente titular;
-        public double saldo;
+        private string numero_agencia;
+        public string Numero_agencia
+        {
+            get { return this.numeroAgencia; }
+            set {
+                if(value > 0)
+                {
+                    this.numero_agencia = value;
+                }
+            }
+        }
+        public string conta { get; set; };
+        public Cliente titular { get; set; };
+        private double saldo = 100;
+
 
         public void Depositar(double valor)
         {

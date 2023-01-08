@@ -42,11 +42,11 @@ cliente.profissao = "Professor";
 conta.titular = cliente;    //aponta para o endereco de memoria de cliente
 conta.conta = "1010-X";
 conta.numeroAgencia = 15;
-conta.saldo = 500;
+//conta.saldo = 500;
 
 Console.WriteLine("Titular: "+conta.titular.nome);
 Console.WriteLine("CPF: "+conta.titular.cpf);
 Console.WriteLine("Profissão: "+conta.titular.profissao);
 Console.WriteLine("Conta Corrente: "+conta.conta);
 Console.WriteLine("Numero Agência: "+conta.numeroAgencia);
-Console.WriteLine("Saldo: "+conta.saldo);
+//Console.WriteLine("Saldo: "+conta.saldo);
