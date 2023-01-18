@@ -1,52 +1,25 @@
 ﻿using bytebank.Contas;
 using bytebank.Titular;
 
-/* ContaCorrente contaDoAndre = new ContaCorrente();
-contaDoAndre.titular = "André Silva";
-contaDoAndre.numeroAgencia = 15;
-contaDoAndre.conta = "1010-X";
-contaDoAndre.saldo = 1000.0;
-
-Console.WriteLine("O saldo na conta do " + contaDoAndre.titular + " é " + contaDoAndre.saldo);
-
-contaDoAndre.Depositar(4000.0);
-
-Console.WriteLine("Depois do deposito, saldo na conta do " + contaDoAndre.titular + " é R$ " + contaDoAndre.saldo);
-
-ContaCorrente contaDaMaria = new ContaCorrente();
-
-contaDaMaria.titular = "Maria Souza";
-contaDaMaria.numeroAgencia = 17;
-contaDaMaria.conta = "1010-5";
-contaDaMaria.saldo = 500;
-
-if(contaDoAndre.Transferir(10000, contaDaMaria))
-{
-    Console.WriteLine("Transferencia realizada com sucesso!");
-    Console.WriteLine("Seu saldo é de R$ "+contaDoAndre.saldo);
-    Console.WriteLine("O saldo de Maria R$ "+contaDaMaria.saldo);
-}
-else
-{
-    Console.WriteLine("Não foi possível realizar a transferencia!");
-    Console.WriteLine("Saldo insuficiente!");
-} */
-
 Cliente cliente = new Cliente();
-ContaCorrente conta = new ContaCorrente();
+ContaCorrente conta = new ContaCorrente(11,"1234-x");
 
-cliente.nome = "Andre silva";
-cliente.cpf = "123456789";
-cliente.profissao = "Professor";
+cliente.Nome = "Andre silva";
+cliente.Cpf = "123456789";
+cliente.Profissao = "Professor";
 
 conta.titular = cliente;    //aponta para o endereco de memoria de cliente
-conta.conta = "1010-X";
-conta.numeroAgencia = 15;
+//conta.conta = "1010-X";
+//conta.Numero_agencia = 15;
 //conta.saldo = 500;
 
-Console.WriteLine("Titular: "+conta.titular.nome);
-Console.WriteLine("CPF: "+conta.titular.cpf);
-Console.WriteLine("Profissão: "+conta.titular.profissao);
+Console.WriteLine("Titular: "+conta.titular.Nome);
+Console.WriteLine("CPF: "+conta.titular.Cpf);
+Console.WriteLine("Profissão: "+conta.titular.Profissao);
 Console.WriteLine("Conta Corrente: "+conta.conta);
-Console.WriteLine("Numero Agência: "+conta.numeroAgencia);
+Console.WriteLine("Numero Agência: "+conta.Numero_agencia);
+System.Console.WriteLine(ContaCorrente.TotalContasCriadas);
+
+ContaCorrente conta2 = new ContaCorrente(14,"1588-X");
+System.Console.WriteLine(ContaCorrente.TotalContasCriadas);
 //Console.WriteLine("Saldo: "+conta.saldo);

@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/home/jean/.nuget/packages/": {}
+    "C:\\Users\\limaj\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/jean/git/repository/Curso-.NET/bytebank/bytebank.csproj",
+      "projectUniqueName": "C:\\Users\\limaj\\Desktop\\Github\\Curso-.NET\\bytebank\\bytebank.csproj",
       "projectName": "bytebank",
-      "projectPath": "/home/jean/git/repository/Curso-.NET/bytebank/bytebank.csproj",
-      "packagesPath": "/home/jean/.nuget/packages/",
-      "outputPath": "/home/jean/git/repository/Curso-.NET/bytebank/obj/",
+      "projectPath": "C:\\Users\\limaj\\Desktop\\Github\\Curso-.NET\\bytebank\\bytebank.csproj",
+      "packagesPath": "C:\\Users\\limaj\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\limaj\\Desktop\\Github\\Curso-.NET\\bytebank\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/jean/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\limaj\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/188/sdk/7.0.101/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
